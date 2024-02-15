@@ -1,2 +1,4 @@
-selenium
-pytest
+selenium>=4.11.2
+requests>=2.31.0
+pytest>=7.4.3
+pytest-xdist>=3.3.1
